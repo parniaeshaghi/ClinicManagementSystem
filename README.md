@@ -1,1 +1,1 @@
-![alt text](https://imgur.com/a/6jc1LwJ)
+![دیاگرام دیتابیس](https://i.imgur.com/EteCoyE.png)
