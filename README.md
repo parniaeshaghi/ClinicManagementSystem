@@ -1,2 +1,1 @@
-# ClinicManagementSystem
-دیتابیس سیستم مدیریت مطب طراحی برای پروژه‌ی درس پایگاه داده‌ها.
+![alt text](https://imgur.com/a/6jc1LwJ)
