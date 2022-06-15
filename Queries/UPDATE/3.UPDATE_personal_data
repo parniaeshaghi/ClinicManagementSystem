@@ -1,0 +1,7 @@
+USE [ClinicManagementSystem]
+
+/* شماره موبایل دکتر عوض شده است */
+UPDATE Personal_data_tbl
+SET MobileNumber = '????'
+WHERE NAME = 'Ali'
+	AND FamilyName = 'Salimi'
