@@ -392,7 +392,7 @@ CREATE TABLE [dbo].[Patient_tbl] (
 	,[CustomField4] [varbinary](max) NULL
 	,[CustomField5] [varbinary](max) NULL
 	,[CustomField6] [varbinary](max) NULL
-	,[UserId_Record_Konande] [int] NULL
+	,[UserId_Recorder] [int] NULL
 	,[IsBlocked] [bit] NULL
 	,CONSTRAINT [PK_Patient_tbl] PRIMARY KEY CLUSTERED ([Id] ASC) WITH (
 		PAD_INDEX = OFF
