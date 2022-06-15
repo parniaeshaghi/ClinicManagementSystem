@@ -1,0 +1,20 @@
+USE [ClinicManagementSystem]
+
+/* دکتر مریضی را ویزیت می‌کند */
+DECLARE @patient_id INT
+
+SELECT @patient_id = Patient_tbl.Id
+FROM Patient_tbl
+JOIN Personal_data_tbl ON Personal_data_tbl.Id = Patient_tbl.PersonalData_Id
+WHERE Name = 'Sahel'
+	AND FamilyName = 'Mohammadi'
+
+UPDATE Patient_tbl
+SET Reason = 'Sardard'
+	,Diagnosis = 'Migrane'
+	,Medicine = 'Mosaken'
+WHERE Id = @patient_id
+
+UPDATE Service_tbl
+SET Service_date = 1401 - 02 - 03
+WHERE Patient_Id = @patient_id
