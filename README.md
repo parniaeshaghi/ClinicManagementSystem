@@ -17,4 +17,4 @@
 
 امیر امیرجانی
 
-![دیاگرام دیتابیس](https://user-images.githubusercontent.com/72022123/173770284-78233107-9dd8-45ee-8f67-497fbea701a8.png)
+![دیاگرام دیتابیس](https://user-images.githubusercontent.com/72022123/173770856-ca5763cd-3b16-47e7-8ca7-089cbb364caa.png)
